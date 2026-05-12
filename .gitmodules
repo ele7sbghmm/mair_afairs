@@ -1,0 +1,6 @@
+[submodule "vendor/uWebSockets"]
+	path = vendor/uWebSockets
+	url = https://github.com/uNetWorking/uWebSockets
+[submodule "vendor/uSockets"]
+	path = vendor/uSockets
+	url = https://github.com/uNetWorking/uSockets
